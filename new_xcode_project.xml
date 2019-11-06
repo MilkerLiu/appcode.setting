@@ -1,0 +1,11 @@
+<application>
+  <component name="XcodeNewProjectMetadata">
+    <lastUsedFolder path="$USER_HOME$/workspace/milker" />
+    <string key="organizationName" value="MK" />
+    <string key="languageChoice" value="Objective-C" />
+    <boolean key="hasUnitTests" value="false" />
+    <boolean key="coreData" value="false" />
+    <string key="bundleIdentifierPrefix" value="com.milker.image" />
+    <boolean key="hasUITests" value="false" />
+  </component>
+</application>
