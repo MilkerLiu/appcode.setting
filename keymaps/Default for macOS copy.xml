@@ -2,7 +2,4 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
-  <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="alt e" />
-  </action>
 </keymap>
